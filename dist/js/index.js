@@ -1,0 +1,1 @@
+"use strict";var div=document.querySelector("div1");console.log(div);for(var i=0;i<10;i++)console.log(i);var a=10;console.log(a);
